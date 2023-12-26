@@ -1,0 +1,27 @@
+{
+  "name": "part3",
+  "version": "1.0.0",
+  "description": "part3 FSO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \\\"Error: no test specified\\\" && exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonyShaps/part3.git"
+  },
+  "author": "Anton Shapovalov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonyShaps/part3/issues"
+  },
+  "homepage": "https://github.com/AntonyShaps/part3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
